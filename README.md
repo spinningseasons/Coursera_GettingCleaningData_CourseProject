@@ -100,8 +100,7 @@ and training data, and only includes variables about means or standard devations
 2. Load those files into data frames using the read.table() function and merge into one data frame using the rbind() function
 3. Add the subject labels to the first column of our data frame from Step 4 using the data.frame() function (put the data frames in the desired order)
 4. Rename the subject variable from the default "V1" to "subject" and turn that variable into a factor variable
-5. Melt the data from wide format into long format so that it will be simple to extract the averages of each measure, using the melt() function and setting the 
-6. id variables to subject and activity
+5. Melt the data from wide format into long format so that it will be simple to extract the averages of each measure, using the melt() function and setting the id variables to subject and activity
 6. Transform that long format data frame back into a wide format data frame, applying the mean() function to each measure by using the dcast() function
 
 ####Notes: 
