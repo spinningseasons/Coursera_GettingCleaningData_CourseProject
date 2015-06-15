@@ -7,8 +7,6 @@
 -Utilizes the Human Acitivity Recognition Using Smartphones Dataset (See data at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 
-(Updated 06.15.15)
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##PROJECT REQUIREMENTS:
